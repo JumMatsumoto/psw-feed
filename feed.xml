@@ -6,6 +6,24 @@
     <description>価格.comの値下がり、モール実質価格、専門店特価、セールページ更新。ポイントとクーポンは概算です。このフィードの内容はインターネットから読めます。</description>
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
-
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">c1e2426ef9bea3be</guid>
+      <pubDate>Thu, 17 Sep 2026 01:33:38 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 56,822円 → 今回 56,669円（-153円）
+最安ショップ: ディーライズ
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Thu, 17 Sep 2026 01:33:38 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
   </channel>
 </rss>
