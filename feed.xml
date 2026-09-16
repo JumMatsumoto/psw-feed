@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCパーツ特価ウォッチャー</title>
+    <link>https://jummatsumoto.github.io/psw-feed/</link>
+    <description>価格.comの値下がり、モール実質価格、専門店特価、セールページ更新。ポイントとクーポンは概算です。このフィードの内容はインターネットから読めます。</description>
+    <language>ja</language>
+    <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
+
+  </channel>
+</rss>
