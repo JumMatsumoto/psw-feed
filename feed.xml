@@ -9,6 +9,25 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">a8d94c99b604897b</guid>
+      <pubDate>Sun, 20 Sep 2026 05:21:19 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 55,945円 → 今回 55,935円（-10円）
+最安ショップ: らいぶshop
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Sun, 20 Sep 2026 05:21:19 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">c1f751dc99f1fc67</guid>
       <pubDate>Sun, 20 Sep 2026 00:41:52 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -174,14 +193,6 @@ https://www.ark-pc.co.jp/special/
 - ジャックスショッピングクレジット最大24回金利0%
 - arkhive x CORSAIRアライアンスモデル特設サイト
 - 『ストリートファイター6』推奨パソコン</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Sat, 19 Sep 2026 01:09:57 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>価格.com値下がり: Palit GeForce RTX 5070 Infinity 3 12GB（ドスパラ限定）</title>
