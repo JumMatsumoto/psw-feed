@@ -9,6 +9,52 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">ffaeab799aca6af0</guid>
+      <pubDate>Fri, 25 Sep 2026 20:32:41 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 55,166円 → 今回 55,061円（-105円）
+最安ショップ: 測定の森
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ更新: パソコン工房</title>
+      <link>https://www.pc-koubou.jp/pc/sale_portal.php</link>
+      <guid isPermaLink="false">3b61e1e5fbf84ada</guid>
+      <pubDate>Fri, 25 Sep 2026 20:32:41 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>パソコン工房
+https://www.pc-koubou.jp/pc/sale_portal.php
+
+見出し:
+- セール・キャンペーン特集
+- 『怒涛のMSI協賛祭』9/25(金)ラインナップ追加！
+- 『超 決算全力セール』開催中！
+- LEVEL∞ 10th Anniversary Project
+- 最大3万円分還元！「決算特別スーパー還元祭」開催中 10/6（火）10:59まで
+- 「ASRock 怒涛の大感謝祭」開催中！ 9/30（水）10:59まで
+- パソコン工房ならではの選べる分割支払いプラン！三井住友カード 残価据置型クレジット手数料0円
+- お客様のお支払い用途に併せて最適なプランをご選択ください。
+- 『緊急放出！！中古大祭』開催中！
+- 会員限定！ゲーミングPC買取で最大50,000円分相当のWEBポイント（商品券）プレゼント！
+- 「レビュー投稿ありがとうございます」を開催中！
+- 買換え応援 法人様限定セール
+- Windows 10のサポートが終了しました。「Windows 11 全力乗換応援フェア」実施中
+- パソコン工房WEB通販サイトで実施中のWEBポイント関連キャンペーンはこちら！
+- 自作PCパーツ・周辺機器のセール・キャンペーン情報
+- パソコン・PCパーツ・周辺機器・中古パソコン対象のキャンペーン情報</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Fri, 25 Sep 2026 20:32:41 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">edbc83e52bc2ac0a</guid>
       <pubDate>Fri, 25 Sep 2026 13:20:57 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -125,14 +171,6 @@ https://www.dospara.co.jp/campaign-list
 - 中古販売買取セール・キャンペーン開催中 !!
 - 中古販売
 - 中古買取</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Thu, 24 Sep 2026 20:27:05 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
