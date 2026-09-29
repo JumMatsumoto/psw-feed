@@ -9,6 +9,50 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">408d05975ab8f2ef</guid>
+      <pubDate>Tue, 29 Sep 2026 14:10:47 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 54,541円 → 今回 54,463円（-78円）
+最安ショップ: らいぶshop
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ更新: ドスパラ</title>
+      <link>https://www.dospara.co.jp/campaign-list</link>
+      <guid isPermaLink="false">8742015af0ea2bbf</guid>
+      <pubDate>Tue, 29 Sep 2026 14:10:47 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>ドスパラ
+https://www.dospara.co.jp/campaign-list
+
+見出し:
+- セール・キャンペーン / 特集 一覧
+- セール・キャンペーン情報
+- ポイントキャンペーン
+- 注目のパソコンセール・キャンペーン・特集
+- パソコン
+- ゲーミングPC
+- クリエイター向けPC
+- ビジネスPC
+- パーツ周辺機器セール・キャンペーン開催中 !!
+- パーツ
+- 周辺機器
+- 中古販売買取セール・キャンペーン開催中 !!
+- 中古販売
+- 中古買取</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Tue, 29 Sep 2026 14:10:47 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">01ea79e7b4d87fa6</guid>
       <pubDate>Tue, 29 Sep 2026 08:05:43 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -52,14 +96,6 @@ https://www.dospara.co.jp/campaign-list
 前回 54,707円 → 今回 54,615円（-92円）
 最安ショップ: ディーライズ
 https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Mon, 28 Sep 2026 22:26:20 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
