@@ -9,6 +9,25 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">379ca91192082a94</guid>
+      <pubDate>Wed, 30 Sep 2026 07:04:40 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 54,380円 → 今回 54,282円（-98円）
+最安ショップ: らいぶshop
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Wed, 30 Sep 2026 07:04:40 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">9980478f6de86837</guid>
       <pubDate>Tue, 29 Sep 2026 21:30:10 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -85,14 +104,6 @@ https://www.dospara.co.jp/campaign-list
 - 中古販売買取セール・キャンペーン開催中 !!
 - 中古販売
 - 中古買取</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Tue, 29 Sep 2026 14:10:47 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
