@@ -9,6 +9,25 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">b80c8202f37c7a15</guid>
+      <pubDate>Sun, 04 Oct 2026 14:15:06 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 56,405円 → 今回 56,311円（-94円）
+最安ショップ: ディーライズ
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Sun, 04 Oct 2026 14:15:06 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">24ffa1ee1c3e147c</guid>
       <pubDate>Sun, 04 Oct 2026 05:50:54 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -49,14 +68,6 @@ https://kakaku.com/item/K0001661801/</description>
 前回 57,129円 → 今回 57,097円（-32円）
 最安ショップ: ディーライズ
 https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Sat, 03 Oct 2026 13:44:04 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>セールページ更新: アーク</title>
