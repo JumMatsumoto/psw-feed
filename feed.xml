@@ -9,6 +9,44 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">f9315f21ecafc4b9</guid>
+      <pubDate>Wed, 07 Oct 2026 07:32:35 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 56,026円 → 今回 56,025円（-1円）
+最安ショップ: ＧＩＧＡ
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ更新: ドスパラ</title>
+      <link>https://www.dospara.co.jp/campaign-list</link>
+      <guid isPermaLink="false">b22fd7ea574f834e</guid>
+      <pubDate>Wed, 07 Oct 2026 07:32:35 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>ドスパラ
+https://www.dospara.co.jp/campaign-list
+
+見出し:
+- セール・キャンペーン / 特集 一覧
+- セール・キャンペーン情報
+- ポイントキャンペーン
+- 注目のパソコンセール・キャンペーン・特集
+- パソコン
+- ゲーミングPC
+- クリエイター向けPC
+- ビジネスPC
+- パーツ周辺機器セール・キャンペーン開催中 !!
+- パーツ
+- 周辺機器
+- 中古販売買取セール・キャンペーン開催中 !!
+- 中古販売
+- 中古買取
+- ドスパラとは？
+- ドスパラが選ばれる理由</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">3abba00b5ccfff51</guid>
       <pubDate>Tue, 06 Oct 2026 22:06:30 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -1667,25 +1705,6 @@ https://shop.tsukumo.co.jp/features/
 - 話題・注目の商品
 - 安心のツクモ2大保証
 - ご購入時のお問い合わせ</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">2c19d6f22a250901</guid>
-      <pubDate>Sat, 19 Sep 2026 05:41:38 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,993円 → 今回 55,985円（-8円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>価格.com解析失敗: Palit GeForce RTX 5070 Infinity 3 12GB（ドスパラ限定）</title>
-      <link>https://kakaku.com/item/K0001683735/</link>
-      <guid isPermaLink="false">bcb03ad146a4f596</guid>
-      <pubDate>Sat, 19 Sep 2026 01:09:57 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>最安価格をページから読み取れませんでした。セレクタ変更の可能性があります。履歴の最安値は更新していません。</description>
     </item>
   </channel>
 </rss>
