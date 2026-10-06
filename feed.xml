@@ -9,6 +9,50 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">3abba00b5ccfff51</guid>
+      <pubDate>Tue, 06 Oct 2026 22:06:30 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 56,027円 → 今回 56,026円（-1円）
+最安ショップ: 測定の森
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ更新: ドスパラ</title>
+      <link>https://www.dospara.co.jp/campaign-list</link>
+      <guid isPermaLink="false">610fe891207ca968</guid>
+      <pubDate>Tue, 06 Oct 2026 22:06:30 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>ドスパラ
+https://www.dospara.co.jp/campaign-list
+
+見出し:
+- セール・キャンペーン / 特集 一覧
+- セール・キャンペーン情報
+- ポイントキャンペーン
+- 注目のパソコンセール・キャンペーン・特集
+- パソコン
+- ゲーミングPC
+- クリエイター向けPC
+- ビジネスPC
+- パーツ周辺機器セール・キャンペーン開催中 !!
+- パーツ
+- 周辺機器
+- 中古販売買取セール・キャンペーン開催中 !!
+- 中古販売
+- 中古買取</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Tue, 06 Oct 2026 22:06:30 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">fa9e719e5981375c</guid>
       <pubDate>Tue, 06 Oct 2026 14:46:59 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -98,14 +142,6 @@ https://shop.tsukumo.co.jp/features/
 前回 56,065円 → 今回 56,033円（-32円）
 最安ショップ: らいぶshop
 https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Tue, 06 Oct 2026 08:54:41 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
@@ -1650,42 +1686,6 @@ https://kakaku.com/item/K0001661801/</description>
       <pubDate>Sat, 19 Sep 2026 01:09:57 +0900</pubDate>
       <category>fetch_error</category>
       <description>最安価格をページから読み取れませんでした。セレクタ変更の可能性があります。履歴の最安値は更新していません。</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">21f4bf154d4a4d82</guid>
-      <pubDate>Sat, 19 Sep 2026 01:09:57 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 56,005円 → 今回 55,993円（-12円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>セールページ更新: ドスパラ</title>
-      <link>https://www.dospara.co.jp/campaign-list</link>
-      <guid isPermaLink="false">3539df9926d5773e</guid>
-      <pubDate>Sat, 19 Sep 2026 01:09:57 +0900</pubDate>
-      <category>sale_page_changed</category>
-      <description>ドスパラ
-https://www.dospara.co.jp/campaign-list
-
-見出し:
-- セール・キャンペーン / 特集 一覧
-- セール・キャンペーン情報
-- ポイントキャンペーン
-- 注目のパソコンセール・キャンペーン・特集
-- パソコン
-- ゲーミングPC
-- クリエイター向けPC
-- ビジネスPC
-- パーツ周辺機器セール・キャンペーン開催中 !!
-- パーツ
-- 周辺機器
-- 中古販売買取セール・キャンペーン開催中 !!
-- 中古販売
-- 中古買取</description>
     </item>
   </channel>
 </rss>
