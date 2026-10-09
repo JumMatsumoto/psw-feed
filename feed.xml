@@ -7,6 +7,40 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ更新: パソコン工房</title>
+      <link>https://www.pc-koubou.jp/pc/sale_portal.php</link>
+      <guid isPermaLink="false">0feb14204e07c982</guid>
+      <pubDate>Fri, 09 Oct 2026 14:31:43 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>パソコン工房
+https://www.pc-koubou.jp/pc/sale_portal.php
+
+見出し:
+- セール・キャンペーン特集
+- 最大30,000円分還元！「超感謝還元祭」開催中 11/4（水）10:59まで
+- 『インテル株式会社50周年記念コラボゲーミングPC』発売！
+- 『LEVEL∞ 10th Anniversary Project「NVIDIA怒涛の全力祭」』開催中！
+- LEVEL∞ 10th Anniversary Project
+- パソコン工房ならではの選べる分割支払いプラン！三井住友カード 残価据置型クレジット手数料0円
+- お客様のお支払い用途に併せて最適なプランをご選択ください。
+- 会員限定！ゲーミングPC買取で最大50,000円分相当のWEBポイント（商品券）プレゼント！
+- 「レビュー投稿ありがとうございます」を開催中！
+- 買換え応援 法人様限定セール
+- Windows 10のサポートが終了しました。「Windows 11 全力乗換応援フェア」実施中
+- パソコン工房WEB通販サイトで実施中のWEBポイント関連キャンペーンはこちら！
+- BTOパソコンのセール・キャンペーン情報
+- 自作PCパーツ・周辺機器のセール・キャンペーン情報
+- パソコン・PCパーツ・周辺機器・中古パソコン対象のキャンペーン情報</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Fri, 09 Oct 2026 14:31:43 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
       <title>セールページ更新: ドスパラ</title>
       <link>https://www.dospara.co.jp/campaign-list</link>
       <guid isPermaLink="false">7dd32aff2bfdaad6</guid>
@@ -283,14 +317,6 @@ https://www.dospara.co.jp/campaign-list
 - 中古販売買取セール・キャンペーン開催中 !!
 - 中古販売
 - 中古買取</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Tue, 06 Oct 2026 22:06:30 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
@@ -1770,17 +1796,6 @@ https://kakaku.com/item/K0001661801/</description>
       <category>kakaku_drop</category>
       <description>AMD Ryzen 7 9800X3D BOX
 前回 55,480円 → 今回 55,472円（-8円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">5d35f341e5113573</guid>
-      <pubDate>Mon, 21 Sep 2026 00:47:31 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,492円 → 今回 55,480円（-12円）
 最安ショップ: らいぶshop
 https://kakaku.com/item/K0001661801/</description>
     </item>
