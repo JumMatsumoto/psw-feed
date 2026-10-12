@@ -9,6 +9,25 @@
     <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">863ae027403aff72</guid>
+      <pubDate>Mon, 12 Oct 2026 23:58:28 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 59,224円 → 今回 59,128円（-96円）
+最安ショップ: ディーライズ
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Mon, 12 Oct 2026 23:58:28 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">09e51c775ff499a7</guid>
       <pubDate>Mon, 12 Oct 2026 14:20:21 +0900</pubDate>
       <category>kakaku_drop</category>
@@ -82,14 +101,6 @@ https://kakaku.com/item/K0001661801/</description>
 前回 59,800円 → 今回 59,729円（-71円）
 最安ショップ: らいぶshop
 https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Sat, 10 Oct 2026 14:15:57 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>セールページ更新: アーク</title>
@@ -1826,17 +1837,6 @@ https://kakaku.com/item/K0001661801/</description>
       <description>AMD Ryzen 7 9800X3D BOX
 前回 55,280円 → 今回 55,230円（-50円）
 最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">7719b41e4e702770</guid>
-      <pubDate>Wed, 23 Sep 2026 20:11:09 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,352円 → 今回 55,280円（-72円）
-最安ショップ: 測定の森
 https://kakaku.com/item/K0001661801/</description>
     </item>
   </channel>
