@@ -7,6 +7,64 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">2f48c5f8959bfaea</guid>
+      <pubDate>Wed, 14 Oct 2026 13:20:38 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 59,072円 → 今回 59,071円（-1円）
+最安ショップ: 測定の森
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
+      <title>セールページ更新: パソコン工房</title>
+      <link>https://www.pc-koubou.jp/pc/sale_portal.php</link>
+      <guid isPermaLink="false">2e38d206477da308</guid>
+      <pubDate>Wed, 14 Oct 2026 13:20:38 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>パソコン工房
+https://www.pc-koubou.jp/pc/sale_portal.php
+
+見出し:
+- セール・キャンペーン特集
+- 『超 ハロウィンセール』開催中！
+- 最大30,000円分還元！「超感謝還元祭」開催中 11/4（水）10:59まで
+- 『インテル株式会社50周年記念コラボゲーミングPC』発売！
+- 『LEVEL∞ 10th Anniversary Project「NVIDIA怒涛の全力祭」』開催中！
+- LEVEL∞ 10th Anniversary Project
+- パソコン工房ならではの選べる分割支払いプラン！三井住友カード 残価据置型クレジット手数料0円
+- お客様のお支払い用途に併せて最適なプランをご選択ください。
+- 会員限定！ゲーミングPC買取で最大50,000円分相当のWEBポイント（商品券）プレゼント！
+- 「レビュー投稿ありがとうございます」を開催中！
+- 買換え応援 法人様限定セール
+- Windows 10のサポートが終了しました。「Windows 11 全力乗換応援フェア」実施中
+- パソコン工房WEB通販サイトで実施中のWEBポイント関連キャンペーンはこちら！
+- BTOパソコンのセール・キャンペーン情報
+- 自作PCパーツ・周辺機器のセール・キャンペーン情報
+- パソコン・PCパーツ・周辺機器・中古パソコン対象のキャンペーン情報</description>
+    </item>
+    <item>
+      <title>セールページ更新: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">1d4076f834af21f5</guid>
+      <pubDate>Wed, 14 Oct 2026 13:20:38 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>ツクモ
+https://shop.tsukumo.co.jp/features/
+
+見出し:
+- 特集一覧
+- 新着
+- 特集
+- SALE
+- 特集を探す
+- ツクモ オススメ特集
+- 話題・注目の商品
+- 安心のツクモ2大保証
+- ご購入時のお問い合わせ</description>
+    </item>
+    <item>
       <title>セールページ更新: アーク</title>
       <link>https://www.ark-pc.co.jp/special/</link>
       <guid isPermaLink="false">22f9d5e3eb6520e9</guid>
@@ -1841,39 +1899,6 @@ https://www.dospara.co.jp/campaign-list
 - 中古販売買取セール・キャンペーン開催中 !!
 - 中古販売
 - 中古買取</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">e75a826d4f18e048</guid>
-      <pubDate>Fri, 25 Sep 2026 06:21:26 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,186円 → 今回 55,180円（-6円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">0b04dfc43bcd14da</guid>
-      <pubDate>Fri, 25 Sep 2026 01:52:37 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,198円 → 今回 55,186円（-12円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">a123ab5aac601e27</guid>
-      <pubDate>Thu, 24 Sep 2026 20:27:05 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,212円 → 今回 55,198円（-14円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
     </item>
   </channel>
 </rss>
