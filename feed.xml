@@ -7,6 +7,26 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ更新: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">af6d8c9d13dda9cc</guid>
+      <pubDate>Thu, 15 Oct 2026 01:54:26 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>ツクモ
+https://shop.tsukumo.co.jp/features/
+
+見出し:
+- 特集一覧
+- 新着
+- 特集
+- SALE
+- 特集を探す
+- ツクモ オススメ特集
+- 話題・注目の商品
+- 安心のツクモ2大保証
+- ご購入時のお問い合わせ</description>
+    </item>
+    <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">9e3c45ab247d1ac1</guid>
@@ -1874,17 +1894,6 @@ https://www.pc-koubou.jp/pc/sale_portal.php
 - パソコン工房WEB通販サイトで実施中のWEBポイント関連キャンペーンはこちら！
 - 自作PCパーツ・周辺機器のセール・キャンペーン情報
 - パソコン・PCパーツ・周辺機器・中古パソコン対象のキャンペーン情報</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">edbc83e52bc2ac0a</guid>
-      <pubDate>Fri, 25 Sep 2026 13:20:57 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,180円 → 今回 55,166円（-14円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
     </item>
   </channel>
 </rss>
