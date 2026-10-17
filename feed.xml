@@ -7,6 +7,14 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Sat, 17 Oct 2026 19:24:52 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
       <title>セールページ更新: アーク</title>
       <link>https://www.ark-pc.co.jp/special/</link>
       <guid isPermaLink="false">2f27e662dfac9943</guid>
@@ -46,14 +54,6 @@ https://www.ark-pc.co.jp/special/
 - ジャックスショッピングクレジット最大24回金利0%
 - arkhive x CORSAIRアライアンスモデル特設サイト
 - 『ストリートファイター6』推奨パソコン</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Sat, 17 Oct 2026 01:23:43 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>セールページ更新: ドスパラ</title>
