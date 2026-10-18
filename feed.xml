@@ -9,6 +9,19 @@
     <item>
       <title>セールページ更新: アーク</title>
       <link>https://www.ark-pc.co.jp/special/</link>
+      <guid isPermaLink="false">f88eb8b1fe4694df</guid>
+      <pubDate>Mon, 19 Oct 2026 05:22:44 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>アーク
+https://www.ark-pc.co.jp/special/
+
+見出し:
+- ただいまメンテナンス中です
+- メンテナンス実施時間</description>
+    </item>
+    <item>
+      <title>セールページ更新: アーク</title>
+      <link>https://www.ark-pc.co.jp/special/</link>
       <guid isPermaLink="false">1cfd91388630635c</guid>
       <pubDate>Mon, 19 Oct 2026 00:39:42 +0900</pubDate>
       <category>sale_page_changed</category>
@@ -1928,26 +1941,6 @@ https://kakaku.com/item/K0001661801/</description>
 前回 55,004円 → 今回 54,998円（-6円）
 最安ショップ: らいぶshop
 https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>セールページ更新: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">82654f84e9e645ae</guid>
-      <pubDate>Sun, 27 Sep 2026 05:52:59 +0900</pubDate>
-      <category>sale_page_changed</category>
-      <description>ツクモ
-https://shop.tsukumo.co.jp/features/
-
-見出し:
-- 特集一覧
-- 新着
-- 特集
-- SALE
-- 特集を探す
-- ツクモ オススメ特集
-- 話題・注目の商品
-- 安心のツクモ2大保証
-- ご購入時のお問い合わせ</description>
     </item>
   </channel>
 </rss>
