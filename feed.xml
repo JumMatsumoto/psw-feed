@@ -7,6 +7,19 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ更新: アーク</title>
+      <link>https://www.ark-pc.co.jp/special/</link>
+      <guid isPermaLink="false">1cfd91388630635c</guid>
+      <pubDate>Mon, 19 Oct 2026 00:39:42 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>アーク
+https://www.ark-pc.co.jp/special/
+
+見出し:
+- ただいまメンテナンス中です
+- メンテナンス実施時間</description>
+    </item>
+    <item>
       <title>セールページ取得失敗: ツクモ</title>
       <link>https://shop.tsukumo.co.jp/features/</link>
       <guid isPermaLink="false">f877a29f055af2f7</guid>
@@ -1935,17 +1948,6 @@ https://shop.tsukumo.co.jp/features/
 - 話題・注目の商品
 - 安心のツクモ2大保証
 - ご購入時のお問い合わせ</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">6feffb1fdd7b3edf</guid>
-      <pubDate>Sun, 27 Sep 2026 01:08:16 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 55,014円 → 今回 55,004円（-10円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
     </item>
   </channel>
 </rss>
