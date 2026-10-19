@@ -7,6 +7,14 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ取得失敗: ツクモ</title>
+      <link>https://shop.tsukumo.co.jp/features/</link>
+      <guid isPermaLink="false">f877a29f055af2f7</guid>
+      <pubDate>Mon, 19 Oct 2026 21:42:23 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
       <title>セールページ更新: パソコン工房</title>
       <link>https://www.pc-koubou.jp/pc/sale_portal.php</link>
       <guid isPermaLink="false">956256cd68510a2a</guid>
@@ -99,14 +107,6 @@ https://www.ark-pc.co.jp/special/
 見出し:
 - ただいまメンテナンス中です
 - メンテナンス実施時間</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: ツクモ</title>
-      <link>https://shop.tsukumo.co.jp/features/</link>
-      <guid isPermaLink="false">f877a29f055af2f7</guid>
-      <pubDate>Sun, 18 Oct 2026 05:22:45 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（通信エラー: ConnectionError）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>セールページ更新: アーク</title>
