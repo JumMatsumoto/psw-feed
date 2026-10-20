@@ -7,6 +7,33 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ更新: ドスパラ</title>
+      <link>https://www.dospara.co.jp/campaign-list</link>
+      <guid isPermaLink="false">7699ae92ed11dba0</guid>
+      <pubDate>Tue, 20 Oct 2026 20:13:44 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>ドスパラ
+https://www.dospara.co.jp/campaign-list
+
+見出し:
+- セール・キャンペーン / 特集 一覧
+- セール・キャンペーン情報
+- ポイントキャンペーン
+- 注目のパソコンセール・キャンペーン・特集
+- パソコン
+- ゲーミングPC
+- クリエイター向けPC
+- ビジネスPC
+- パーツ周辺機器セール・キャンペーン開催中 !!
+- パーツ
+- 周辺機器
+- 中古販売買取セール・キャンペーン開催中 !!
+- 中古販売
+- 中古買取
+- ドスパラとは？
+- ドスパラが選ばれる理由</description>
+    </item>
+    <item>
       <title>セールページ取得失敗: ツクモ</title>
       <link>https://shop.tsukumo.co.jp/features/</link>
       <guid isPermaLink="false">f877a29f055af2f7</guid>
@@ -1944,17 +1971,6 @@ https://www.ark-pc.co.jp/special/
       <category>kakaku_drop</category>
       <description>AMD Ryzen 7 9800X3D BOX
 前回 54,933円 → 今回 54,865円（-68円）
-最安ショップ: らいぶshop
-https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">62270ebfb4a16c41</guid>
-      <pubDate>Sun, 27 Sep 2026 13:43:02 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 54,998円 → 今回 54,933円（-65円）
 最安ショップ: らいぶshop
 https://kakaku.com/item/K0001661801/</description>
     </item>
