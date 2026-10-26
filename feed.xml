@@ -7,6 +7,17 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">a5b1e0915a73267e</guid>
+      <pubDate>Mon, 26 Oct 2026 21:36:08 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 62,265円 → 今回 60,500円（-1,765円）
+最安ショップ: 電子問屋
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
       <title>セールページ更新: パソコン工房</title>
       <link>https://www.pc-koubou.jp/pc/sale_portal.php</link>
       <guid isPermaLink="false">e525e7863440e65e</guid>
@@ -2075,14 +2086,6 @@ https://www.dospara.co.jp/campaign-list
 - 中古販売買取セール・キャンペーン開催中 !!
 - 中古販売
 - 中古買取</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: アーク</title>
-      <link>https://www.ark-pc.co.jp/special/</link>
-      <guid isPermaLink="false">e71fc9f36be5a110</guid>
-      <pubDate>Tue, 29 Sep 2026 21:30:10 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（HTTP 403）。更新検知用の履歴は変更していません。</description>
     </item>
   </channel>
 </rss>
