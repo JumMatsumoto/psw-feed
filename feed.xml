@@ -7,6 +7,33 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ更新: ドスパラ</title>
+      <link>https://www.dospara.co.jp/campaign-list</link>
+      <guid isPermaLink="false">39dbd7fdaf2ad67d</guid>
+      <pubDate>Tue, 03 Nov 2026 00:17:55 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>ドスパラ
+https://www.dospara.co.jp/campaign-list
+
+見出し:
+- セール・キャンペーン / 特集 一覧
+- セール・キャンペーン情報
+- ポイントキャンペーン
+- 注目のパソコンセール・キャンペーン・特集
+- パソコン
+- ゲーミングPC
+- クリエイター向けPC
+- ビジネスPC
+- パーツ周辺機器セール・キャンペーン開催中 !!
+- パーツ
+- 周辺機器
+- 中古販売買取セール・キャンペーン開催中 !!
+- 中古販売
+- 中古買取
+- ドスパラとは？
+- ドスパラが選ばれる理由</description>
+    </item>
+    <item>
       <title>セールページ更新: パソコン工房</title>
       <link>https://www.pc-koubou.jp/pc/sale_portal.php</link>
       <guid isPermaLink="false">febc4bafbc5026e5</guid>
@@ -2126,31 +2153,6 @@ https://www.pc-koubou.jp/pc/sale_portal.php
 - BTOパソコンのセール・キャンペーン情報
 - 自作PCパーツ・周辺機器のセール・キャンペーン情報
 - パソコン・PCパーツ・周辺機器・中古パソコン対象のキャンペーン情報</description>
-    </item>
-    <item>
-      <title>セールページ更新: ドスパラ</title>
-      <link>https://www.dospara.co.jp/campaign-list</link>
-      <guid isPermaLink="false">0f80fe6187ee5fd6</guid>
-      <pubDate>Fri, 02 Oct 2026 14:00:12 +0900</pubDate>
-      <category>sale_page_changed</category>
-      <description>ドスパラ
-https://www.dospara.co.jp/campaign-list
-
-見出し:
-- セール・キャンペーン / 特集 一覧
-- セール・キャンペーン情報
-- ポイントキャンペーン
-- 注目のパソコンセール・キャンペーン・特集
-- パソコン
-- ゲーミングPC
-- クリエイター向けPC
-- ビジネスPC
-- パーツ周辺機器セール・キャンペーン開催中 !!
-- パーツ
-- 周辺機器
-- 中古販売買取セール・キャンペーン開催中 !!
-- 中古販売
-- 中古買取</description>
     </item>
   </channel>
 </rss>
