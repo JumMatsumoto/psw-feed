@@ -7,6 +7,47 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ更新: アーク</title>
+      <link>https://www.ark-pc.co.jp/special/</link>
+      <guid isPermaLink="false">399f0cf79bfe521a</guid>
+      <pubDate>Mon, 09 Nov 2026 06:52:22 +0900</pubDate>
+      <category>sale_page_changed</category>
+      <description>アーク
+https://www.ark-pc.co.jp/special/
+
+見出し:
+- キャンペーン・新着情報
+- キャンペーン・特設ページ一覧
+- arkhive 6周年記念 感謝祭
+- 三井住友カード ショッピングクレジット0%金利(36回まで)
+- カスタムBTOパソコン arkhive (アークハイブ) 公式ブランドサイト
+- 『DEATH STRANDING 2: ON THE BEACH』推奨パソコン
+- arkhive GeForce RTX 5090 Founders Edition LimitedシリーズBTOパソコン特設
+- 紅の砂漠 推奨パソコン
+- 回収・リサイクル
+- be quiet x arkhive btoパソコン特設
+- arkhive (アークハイブ) BTOパソコン週替わりセール
+- ELDEN RING NIGHTREIGN 推奨パソコン
+- パソコン出張設定設置サービス
+- モンスターハンターワイルズ動作確認済PC
+- インテル Core Ultra 200S プロセッサー特集
+- FINAL FANTASY XVI 快適プレイ BTOパソコン
+- 1年間・2年間延長も選べる! 安心のBTOパソコン延長保証
+- 『祇:Path of the Goddess』推奨パソコン
+- AMD Ryzen™ 9000 シリーズ・プロセッサー 特集
+- QNAP NAS BTOシリーズ
+- パワフルでコンパクト、ASUS NUC x arkhiveで実現するニューノーマルライフ
+- ELDEN RING SHADOW OF THE ERDTREE 推奨パソコン
+- Powered by ASUS ProArt
+- パルワールドおすすめ BTO パソコン
+- 『龍が如く8』推奨パソコン
+- AMD Ryzen Threadripper PRO 7000 WX関連製品特集
+- ARMORED CORE VI FIRES OF RUBICON 推奨パソコン
+- ジャックスショッピングクレジット最大24回金利0%
+- arkhive x CORSAIRアライアンスモデル特設サイト
+- 『ストリートファイター6』推奨パソコン</description>
+    </item>
+    <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">beb00423aecc601c</guid>
@@ -2168,33 +2209,6 @@ https://www.pc-koubou.jp/pc/sale_portal.php
 前回 56,026円 → 今回 56,025円（-1円）
 最安ショップ: ＧＩＧＡ
 https://kakaku.com/item/K0001661801/</description>
-    </item>
-    <item>
-      <title>セールページ更新: ドスパラ</title>
-      <link>https://www.dospara.co.jp/campaign-list</link>
-      <guid isPermaLink="false">b22fd7ea574f834e</guid>
-      <pubDate>Wed, 07 Oct 2026 07:32:35 +0900</pubDate>
-      <category>sale_page_changed</category>
-      <description>ドスパラ
-https://www.dospara.co.jp/campaign-list
-
-見出し:
-- セール・キャンペーン / 特集 一覧
-- セール・キャンペーン情報
-- ポイントキャンペーン
-- 注目のパソコンセール・キャンペーン・特集
-- パソコン
-- ゲーミングPC
-- クリエイター向けPC
-- ビジネスPC
-- パーツ周辺機器セール・キャンペーン開催中 !!
-- パーツ
-- 周辺機器
-- 中古販売買取セール・キャンペーン開催中 !!
-- 中古販売
-- 中古買取
-- ドスパラとは？
-- ドスパラが選ばれる理由</description>
     </item>
   </channel>
 </rss>
