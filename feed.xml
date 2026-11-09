@@ -7,6 +7,17 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
+      <link>https://kakaku.com/item/K0001661801/</link>
+      <guid isPermaLink="false">8018efaaf38833e8</guid>
+      <pubDate>Mon, 09 Nov 2026 14:38:17 +0900</pubDate>
+      <category>kakaku_drop</category>
+      <description>AMD Ryzen 7 9800X3D BOX
+前回 60,188円 → 今回 60,183円（-5円）
+最安ショップ: 電子問屋
+https://kakaku.com/item/K0001661801/</description>
+    </item>
+    <item>
       <title>セールページ更新: アーク</title>
       <link>https://www.ark-pc.co.jp/special/</link>
       <guid isPermaLink="false">399f0cf79bfe521a</guid>
@@ -2198,17 +2209,6 @@ https://www.pc-koubou.jp/pc/sale_portal.php
 - BTOパソコンのセール・キャンペーン情報
 - 自作PCパーツ・周辺機器のセール・キャンペーン情報
 - パソコン・PCパーツ・周辺機器・中古パソコン対象のキャンペーン情報</description>
-    </item>
-    <item>
-      <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
-      <link>https://kakaku.com/item/K0001661801/</link>
-      <guid isPermaLink="false">f9315f21ecafc4b9</guid>
-      <pubDate>Wed, 07 Oct 2026 07:32:35 +0900</pubDate>
-      <category>kakaku_drop</category>
-      <description>AMD Ryzen 7 9800X3D BOX
-前回 56,026円 → 今回 56,025円（-1円）
-最安ショップ: ＧＩＧＡ
-https://kakaku.com/item/K0001661801/</description>
     </item>
   </channel>
 </rss>
