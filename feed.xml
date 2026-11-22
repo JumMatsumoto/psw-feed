@@ -7,6 +7,14 @@
     <language>ja</language>
     <atom:link href="https://jummatsumoto.github.io/psw-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>セールページ取得失敗: アーク</title>
+      <link>https://www.ark-pc.co.jp/special/</link>
+      <guid isPermaLink="false">e71fc9f36be5a110</guid>
+      <pubDate>Sun, 22 Nov 2026 14:59:00 +0900</pubDate>
+      <category>fetch_error</category>
+      <description>ページを取得できませんでした（HTTP 403）。更新検知用の履歴は変更していません。</description>
+    </item>
+    <item>
       <title>価格.com値下がり: AMD Ryzen 7 9800X3D BOX</title>
       <link>https://kakaku.com/item/K0001661801/</link>
       <guid isPermaLink="false">a2c383235d0dc872</guid>
@@ -293,14 +301,6 @@ https://www.ark-pc.co.jp/special/
 - arkhive x CORSAIRアライアンスモデル特設サイト
 - 『ストリートファイター6』推奨パソコン
 - GIGABYTE ノートシリーズ</description>
-    </item>
-    <item>
-      <title>セールページ取得失敗: アーク</title>
-      <link>https://www.ark-pc.co.jp/special/</link>
-      <guid isPermaLink="false">e71fc9f36be5a110</guid>
-      <pubDate>Sun, 15 Nov 2026 14:46:44 +0900</pubDate>
-      <category>fetch_error</category>
-      <description>ページを取得できませんでした（HTTP 403）。更新検知用の履歴は変更していません。</description>
     </item>
     <item>
       <title>セールページ更新: アーク</title>
